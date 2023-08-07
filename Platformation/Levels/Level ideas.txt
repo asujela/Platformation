@@ -1,0 +1,4 @@
+lets make it so that the levels are more expanded by adding vertical scrolling as well
+we can make a death pit or something since the camera can move on the y axis
+with goals we can also create a collectable class or something that represent the collectable on the maps
+
